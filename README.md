@@ -23,8 +23,8 @@ Pour installer les packages Python nécessaires, exécutez les commandes suivant
 - pip install pytube youtubesearchpython
 
 ## Auteur
-Nom : Justin Chaput
-Contact : justinchaps@hotmail.com
+- Nom : Justin Chaput
+- Contact : justinchaps@hotmail.com
 
 ## Licence
 Distribué sous la Licence General Public License(GNU). Voir le fichier LICENSE pour plus d'informations.
