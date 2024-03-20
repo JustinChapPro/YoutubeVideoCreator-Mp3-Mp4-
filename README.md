@@ -12,7 +12,7 @@ Contribution
 Votre participation est encouragée ! Pour proposer des améliorations ou de nouvelles fonctionnalités, veuillez ouvrir une issue ou soumettre une pull request.
 
 Licence
-Distribué sous la Licence MIT. Voir le fichier LICENSE pour plus d'informations.
+Distribué sous la Licence General Public License. Voir le fichier LICENSE pour plus d'informations.
 
 Auteur
 Nom : Justin Chaput
