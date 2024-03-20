@@ -1,4 +1,4 @@
-Comment ça marche ?
+## Comment ça marche ?
 Téléchargement direct
 Choix du mode : Le script commence par demander à l'utilisateur s'il souhaite télécharger une vidéo par son titre (y) ou directement via un lien (n).
 Entrée de l'utilisateur : Selon le choix, l'utilisateur est invité à entrer soit le titre de la vidéo soit son lien YouTube direct.
@@ -11,9 +11,20 @@ Téléchargement : Utilise pytube pour récupérer les informations de la vidéo
 Contribution
 Votre participation est encouragée ! Pour proposer des améliorations ou de nouvelles fonctionnalités, veuillez ouvrir une issue ou soumettre une pull request.
 
-Licence
-Distribué sous la Licence General Public License(GNU). Voir le fichier LICENSE pour plus d'informations.
+## Prérequis
 
-Auteur
+Avant de commencer, assurez-vous de répondre aux exigences suivantes :
+
+- Vous avez installé Python 3.x sur votre ordinateur.
+- Vous avez installé les packages Python requis`.
+
+## Installation
+Pour installer les packages Python nécessaires, exécutez les commandes suivante :
+- pip install pytube youtubesearchpython
+
+## Auteur
 Nom : Justin Chaput
 Contact : justinchaps@hotmail.com
+
+## Licence
+Distribué sous la Licence General Public License(GNU). Voir le fichier LICENSE pour plus d'informations.
